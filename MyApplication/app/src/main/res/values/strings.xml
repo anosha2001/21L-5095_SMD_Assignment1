@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MCQ Quiz</string>
+    <string name="welcome">Welcome!</string>
+    <string name="et_name_hint">Enter your name</string>
+    <string name="btn_submit">Start Quiz</string>
+    <string name="btn_prev">Previous</string>
+    <string name="btn_next">Next</string>
+    <string name="btn_share_score">Share Score</string>
+</resources>
